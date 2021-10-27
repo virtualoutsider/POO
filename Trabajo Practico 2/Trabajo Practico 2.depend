@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1592337056 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\main.cpp
+	<iostream>
+	"Obra.h"
+	"Cuadro.h"
+
+1592332103 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\src\artista.cpp
+	"Artista.h"
+	<iostream>
+
+1592332106 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\include\artista.h
+	<string>
+
+1592332837 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\src\obra.cpp
+	"Obra.h"
+	"Artista.h"
+	<iostream>
+
+1592334760 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\include\obra.h
+	"Artista.h"
+	<string>
+
+1592337069 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\src\cuadro.cpp
+	"Cuadro.h"
+	<iostream>
+
+1592336329 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\include\cuadro.h
+	<Obra.h>
+
+1592333772 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\src\escultura.cpp
+	"Escultura.h"
+	<iostream>
+
+1592333640 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\include\escultura.h
+	<Obra.h>
+
+1592336594 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\src\centrocultural.cpp
+	"CentroCultural.h"
+
+1592334057 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 2\include\centrocultural.h
+	"Obra.h"
+

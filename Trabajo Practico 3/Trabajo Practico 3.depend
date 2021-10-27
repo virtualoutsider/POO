@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1593728187 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Caballo.h"
+	"Gallina.h"
+	"Vaca.h"
+	"Granja.h"
+
+1593722329 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\include\caballo.h
+	<Animal.h>
+
+1593919412 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\include\animal.h
+	<string>
+
+1593722210 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\include\gallina.h
+	<Animal.h>
+
+1593722287 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\include\vaca.h
+	<Animal.h>
+
+1593728059 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\include\granja.h
+	"Animal.h"
+	"Caballo.h"
+	"Gallina.h"
+	"Vaca.h"
+
+1593728126 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\src\animal.cpp
+	"Animal.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1593722329 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\src\caballo.cpp
+	"Caballo.h"
+	<iostream>
+
+1593722314 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\src\gallina.cpp
+	"Gallina.h"
+	<iostream>
+
+1593722329 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\src\vaca.cpp
+	"Vaca.h"
+	<iostream>
+
+1593728277 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\trabajo practico 3\src\granja.cpp
+	"Granja.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<typeinfo>
+
+1593728187 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Caballo.h"
+	"Gallina.h"
+	"Vaca.h"
+	"Granja.h"
+
+1593722329 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\include\caballo.h
+	<Animal.h>
+
+1593919412 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\include\animal.h
+	<string>
+
+1593722210 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\include\gallina.h
+	<Animal.h>
+
+1593722287 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\include\vaca.h
+	<Animal.h>
+
+1593728059 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\include\granja.h
+	"Animal.h"
+	"Caballo.h"
+	"Gallina.h"
+	"Vaca.h"
+
+1593728126 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\src\animal.cpp
+	"Animal.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1593722329 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\src\caballo.cpp
+	"Caballo.h"
+	<iostream>
+
+1593722314 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\src\gallina.cpp
+	"Gallina.h"
+	<iostream>
+
+1593722329 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\granja\granja\src\vaca.cpp
+	"Vaca.h"
+	<iostream>
+
+1593728187 source:c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Caballo.h"
+	"Gallina.h"
+	"Vaca.h"
+	"Granja.h"
+
+1593722329 c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\include\caballo.h
+	<Animal.h>
+
+1593919412 c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\include\animal.h
+	<string>
+
+1593722210 c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\include\gallina.h
+	<Animal.h>
+
+1593722287 c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\include\vaca.h
+	<Animal.h>
+
+1593728059 c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\include\granja.h
+	"Animal.h"
+	"Caballo.h"
+	"Gallina.h"
+	"Vaca.h"
+
+1593728126 source:c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\src\animal.cpp
+	"Animal.h"
+	<iostream>
+	<string>
+	<typeinfo>
+
+1593722329 source:c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\src\caballo.cpp
+	"Caballo.h"
+	<iostream>
+
+1593722314 source:c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\src\gallina.cpp
+	"Gallina.h"
+	<iostream>
+
+1593920750 source:c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\src\granja.cpp
+	"Granja.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<typeinfo>
+
+1593722329 source:c:\users\tomas\desktop\facultad 3ero\1er cuatrimestre\programacion orientada a objetos\trabajo practico 3\src\vaca.cpp
+	"Vaca.h"
+	<iostream>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1588182362 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\trabajopractico\main.cpp
+	<iostream>
+	"Punto.h"
+
+1588182369 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\trabajopractico\src\punto.cpp
+	"Punto.h"
+
+1588182523 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\trabajopractico\include\punto.h
+
+1588257443 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\trabajopractico\src\punto.cpp
+	"Punto.h"
+
+1588257415 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\trabajopractico\include\punto.h
+
+1588257395 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\trabajopractico\main.cpp
+	<iostream>
+	"Punto.h"
+

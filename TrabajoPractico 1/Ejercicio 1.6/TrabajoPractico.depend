@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1588182362 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\trabajopractico\main.cpp
+	<iostream>
+	"Punto.h"
+
+1588182369 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\trabajopractico\src\punto.cpp
+	"Punto.h"
+
+1588182523 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\trabajopractico\include\punto.h
+
+1588262047 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\ejercicio 1.5\main.cpp
+	<iostream>
+	"Punto.h"
+
+1588275509 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\ejercicio 1.5\include\punto.h
+
+1588261990 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\ejercicio 1.5\src\punto.cpp
+	"Punto.h"
+
+1588277738 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\ejercicio 1.6\src\punto.cpp
+	"Punto.h"
+
+1588277746 c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\ejercicio 1.6\include\punto.h
+
+1588277893 source:c:\users\tomas\desktop\facultad 3ero\programacion orientada a objetos\ejercicios\backup\ejercicio 1.6\main.cpp
+	<iostream>
+	"Punto.h"
+
